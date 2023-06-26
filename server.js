@@ -15,7 +15,7 @@ const rappers = {
     birthName: "Mohamed Salah Balti",
     birthLocation: "Tunis",
   },
-  "stou R3d": {
+  stour3d: {
     age: 25,
     birthName: "Mustpha Sghaier",
     birthLocation: "Tunis, BelleVue",
